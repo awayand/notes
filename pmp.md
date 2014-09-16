@@ -178,3 +178,11 @@ Other Terms
 		- Affiliation
 		- Power
 	- Herzberg's Theory (Hygiene Factors vs. Motivating Agents)
+    
+390
+
+# Communications Management
+
+Communications channels = (N* (N-1)) / 2
+N = number of people
+
