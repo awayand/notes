@@ -202,6 +202,31 @@ Includes cost, schedule, scope and quality performance
 - Earned Value Report
 - Lessons Learned Documentation
 
+## Control Communications
+Communications is 90% of the PM's time
 
+408
 
+# Risk Management
 
+- Risks are identified and managed started in Initiating!
+- Investigation of uncertainties may help identify risks.
+
+## Risk Factors
+- how likely
+- impact or amount at stake
+- when
+- how often
+
+## Risk Appetite, Tolerance, Threshold
+Level of risk that is willing to be accepted
+Risk appetite: acceptable level of risk (e.g. schedule delay)
+Risk tolerance: measurable (e.g. up to 14 days)
+Threshold: specific point where risk becomes unacceptable (e.g. 15 days)
+416
+
+- Risk sources and risk categories are used interchangeably
+
+## Types of Risk
+- Business Risk (gain or loss)
+- Pure (insurable) Risk (loss, e.g. fire, theft, personal injury, etc.)
