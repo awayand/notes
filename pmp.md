@@ -186,3 +186,22 @@ Other Terms
 Communications channels = (N* (N-1)) / 2
 N = number of people
 
+392
+
+## Performance Reporting
+
+Includes cost, schedule, scope and quality performance
+
+393
+
+- Status Report
+- Progress Report
+- Trend Report
+- Forecasting Report
+- Variance Report
+- Earned Value Report
+- Lessons Learned Documentation
+
+
+
+
