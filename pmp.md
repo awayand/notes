@@ -262,3 +262,17 @@ Tools:
 ### Monte Carlo Analysis (Simulation Technique)
 - uses network diagram and estimates to perform the project many times and simulate cost or schedule.
 ### Decision Trees
+
+x428x
+
+## Risk Response Strategies (aka Risk Mitigation Strategies)
+for Threats:
+- Avoid (for high priority, high impact risks)
+- Mitigate (for high priority, high impact risks)
+- Transfer (Deflect, Allocate) (for low priority, low-impact risks)
+for Opportunities:
+- Exploit (opposite of avoid)
+- Enhance (opposite of mitigate)
+- Share
+for Threats AND Opportunities:
+- Accept (must be communicated to stakeholders)
