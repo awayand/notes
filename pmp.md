@@ -276,3 +276,6 @@ for Opportunities:
 - Share
 for Threats AND Opportunities:
 - Accept (must be communicated to stakeholders)
+
+431
+- Residual Risks: remaining risks after risk response planning.
