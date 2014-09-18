@@ -279,3 +279,11 @@ for Threats AND Opportunities:
 
 431
 - Residual Risks: remaining risks after risk response planning.
+
+438
+## Control Risk
+e.g.:
+- Workarounds: unplanned responses (vs. contingency response)
+- Risk Reassessments
+- Risk Audits (documented in the Risk Management Plan)
+- Reserve Analysis
