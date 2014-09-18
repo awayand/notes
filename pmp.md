@@ -230,3 +230,35 @@ Threshold: specific point where risk becomes unacceptable (e.g. 15 days)
 ## Types of Risk
 - Business Risk (gain or loss)
 - Pure (insurable) Risk (loss, e.g. fire, theft, personal injury, etc.)
+418
+## Risk Identification Tools and Techniques
+- Documentation Reviews (what is and isn't documented, lessons learned, etc.)
+- Information-Gathering Techniques
+	- Brainstorming
+	- Delphi Technique (group of experts' reviews compiled and fed back until consensus)
+	- Interviewing
+	- RCA
+- **S**trengths**W**eaknesses**O**pportunities**T**hreats (SWOT) Analysis
+- Checklist Analysis
+- Assumptions Analysis
+- Diagramming Techniques
+
+- Updated Risk Register is chief item under "project documents updates".
+
+419
+## Qualitative Risk Analysis
+probability of risk occurring and impact
+Tools:
+- Porbability and Impact Matrix
+- Risk Data Quality Assessment
+- Risk Categorization/Sources of risk by cause
+- Risk Urgency Assessment
+
+## Quantitative Risk Analysis (x422x)
+### Sensitivity Analysis
+- compare potential impacts of risks (Tornado diagram)
+### Exepected monetary value analysis
+- EMV = **P**robability x **I**mpact
+### Monte Carlo Analysis (Simulation Technique)
+- uses network diagram and estimates to perform the project many times and simulate cost or schedule.
+### Decision Trees
