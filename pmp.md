@@ -287,3 +287,21 @@ e.g.:
 - Risk Reassessments
 - Risk Audits (documented in the Risk Management Plan)
 - Reserve Analysis
+
+# Procurement Management
+
+## Plan Procurement Management
+- Perform make or buy analysis (e.g. lease or buy?)
+- Create a procurement management plan (how to plan, execute, control and close procurements)
+- create a procurement statement of work for each procurement (as precise as possible)
+	Types:
+    - Performance (specs)
+	- Functional (purpose)
+    - Design (precisely what)
+- select a contract type for each procurement
+	Types:
+	- Fixed Price, Fixed Price Incentive Fee, FPIF successive target contract, Fixed Price Award Fee, Fixed Price Economic Price Adjustment, Purchase Order (simple, unilateral)
+	- Time and Material (for small amounts)
+	- Cost-reimbursable, cost contract (no profit), cost plus fee or cost plus percentage of cost, cost plus fixed fee, cost plus incentive fee (with penalty), cost plus award fee (no penalty)
+- create procurement documents
+- determine source selection criteria
