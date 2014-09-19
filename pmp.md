@@ -303,5 +303,9 @@ e.g.:
 	- Fixed Price, Fixed Price Incentive Fee, FPIF successive target contract, Fixed Price Award Fee, Fixed Price Economic Price Adjustment, Purchase Order (simple, unilateral)
 	- Time and Material (for small amounts)
 	- Cost-reimbursable, cost contract (no profit), cost plus fee or cost plus percentage of cost, cost plus fixed fee, cost plus incentive fee (with penalty), cost plus award fee (no penalty)
+    Other Terms:
+    - Sharing Ratio (Buyer/Seller)
+	- Target Price is target cost plus target fee
+    - Point of total assumption (only relevant to FPIF!) = ( (Ceiling price - Target Price) / Buyer's share ratio ) + Target Cost
 - create procurement documents
 - determine source selection criteria
